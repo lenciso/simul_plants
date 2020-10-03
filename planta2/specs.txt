@@ -1,0 +1,3 @@
+Proceso: Nivel
+Entrada: 0-10V
+Salida: 0-50L

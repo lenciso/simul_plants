@@ -1,0 +1,3 @@
+Proceso: Temperatura
+Entrada: 1-5V
+Salida: 0-60Celsius

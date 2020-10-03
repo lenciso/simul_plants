@@ -1,0 +1,3 @@
+Proceso: Presion
+Entrada: 0-10V
+Salida: 0-20psi
